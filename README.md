@@ -25,9 +25,12 @@
 - Java 8及以上版本
 - 支持Java Swing图形界面
 
-## 编译运行示例（命令行）
+## 编译运行
 ```bash
 javac LevelUp2048.java GamePanel.java
 java LevelUp2048
 ```
+当然，你也可以使用一些IDE（如IntelliJ IDEA）来打开
 #### 开发者:rex2880
+#### 反馈问题？邮箱：root@yeguanghui.com,谢谢支持!
+
